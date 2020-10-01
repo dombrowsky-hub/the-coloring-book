@@ -1,89 +1,10 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660.4 741.47">
-    <style>
-      .cls-1 {
-        fill: #fdf2a8;
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="octocat" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660.4 741.47">
+  <style type="text/css">
+      path, circle{
+          cursor: pointer;
       }
-
-      .cls-2 {
-        fill: #231f20;
-      }
-
-      .cls-3 {
-        fill: #fefef9;
-      }
-
-      .cls-4 {
-        fill: #b29957;
-      }
-
-      .cls-5 {
-        fill: #080301;
-      }
-
-      .cls-6 {
-        fill: #520901;
-      }
-
-      .cls-10, .cls-7 {
-        fill: #180301;
-      }
-
-      .cls-16, .cls-17, .cls-18, .cls-7 {
-        stroke: #020202;
-      }
-
-      .cls-11, .cls-12, .cls-16, .cls-17, .cls-18, .cls-7 {
-        stroke-miterlimit: 10;
-      }
-
-      .cls-16, .cls-7 {
-        stroke-width: 0;
-      }
-
-      .cls-8 {
-        fill: #5c5a5a;
-      }
-
-      .cls-9 {
-        fill: #706e6e;
-      }
-
-      .cls-11, .cls-17, .cls-18 {
-        fill: none;
-      }
-
-      .cls-11 {
-        stroke: #231f20;
-      }
-
-      .cls-11, .cls-12, .cls-17 {
-        stroke-width: 2.29px;
-      }
-
-      .cls-12, .cls-13 {
-        fill: #fff;
-      }
-
-      .cls-12 {
-        stroke: #180301;
-      }
-
-      .cls-14 {
-        fill: #050504;
-      }
-
-      .cls-15 {
-        fill: #020202;
-      }
-
-      .cls-16 {
-        fill: #f9f7f7;
-      }
-
-      .cls-18 {
-        stroke-width: 3px;
-      }
-    </style>
+  </style>
   <path class="cls-1" d="M437.12,385l-1.06,1.19C436.06,386.48,435.4,383.14,437.12,385Z" transform="translate(-243.01 -71.13)"/>
   <path class="cls-1" d="M435.07,384.64c-.25.11-.28.19,0,0C435.41,384.68,435.11,385.58,435.07,384.64Z" transform="translate(-243.01 -71.13)"/>
   <path class="cls-1" d="M433.06,385.7h0C432.82,385.9,434.2,385.35,433.06,385.7Z" transform="translate(-243.01 -71.13)"/>
